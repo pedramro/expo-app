@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "محاسله گر قدرتمند",
+    "slug": "expo-app",
+    "version": "1.0.0",
+    "icon": "./assets/maxresdefault.jpg",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.pedram.calcios",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.pedram.calc",
+      "versionCode": 1
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "2bf5c387-9357-4827-8424-e7cfd41eeb6b"
+      }
+    }
+  }
+}
